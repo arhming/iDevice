@@ -1,0 +1,1300 @@
+{
+   "iPad": [
+      {
+         "\"A\" Number": "A1219",
+         "Bootrom": "Bootrom 574.4",
+         "FCC ID": "BCG-E2381A",
+         "Internal Name": "K48AP",
+         "Identifier": "iPad1,1",
+         "Finish": "Black",
+         "Storage": "16 GB",
+         "Model": "MB292"
+      }
+   ],
+   "32 GB": [
+      {
+         "\"A\" Number": "MB293",
+         "Bootrom": "",
+         "FCC ID": "",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      },
+      {
+         "\"A\" Number": "MC496",
+         "Bootrom": "",
+         "FCC ID": "",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      },
+      {
+         "\"A\" Number": "MC770",
+         "Bootrom": "",
+         "FCC ID": "",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      },
+      {
+         "\"A\" Number": "MC980",
+         "Bootrom": "",
+         "FCC ID": "",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      },
+      {
+         "\"A\" Number": "MC774",
+         "Bootrom": "",
+         "FCC ID": "",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      },
+      {
+         "\"A\" Number": "MC983",
+         "Bootrom": "",
+         "FCC ID": "",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      },
+      {
+         "\"A\" Number": "MC763",
+         "Bootrom": "",
+         "FCC ID": "",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      },
+      {
+         "\"A\" Number": "MC986",
+         "Bootrom": "",
+         "FCC ID": "",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      },
+      {
+         "\"A\" Number": "MC706, MD334",
+         "Bootrom": "",
+         "FCC ID": "",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      },
+      {
+         "\"A\" Number": "MD329, MD337",
+         "Bootrom": "",
+         "FCC ID": "",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      },
+      {
+         "\"A\" Number": "MC744",
+         "Bootrom": "",
+         "FCC ID": "",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      },
+      {
+         "\"A\" Number": "MD364",
+         "Bootrom": "",
+         "FCC ID": "",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      },
+      {
+         "\"A\" Number": "MD367, MD405",
+         "Bootrom": "",
+         "FCC ID": "",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      },
+      {
+         "\"A\" Number": "MD370, MD408",
+         "Bootrom": "",
+         "FCC ID": "",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      },
+      {
+         "\"A\" Number": "MD511",
+         "Bootrom": "",
+         "FCC ID": "",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      },
+      {
+         "\"A\" Number": "MD514",
+         "Bootrom": "",
+         "FCC ID": "",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      },
+      {
+         "\"A\" Number": "MD517",
+         "Bootrom": "",
+         "FCC ID": "",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      },
+      {
+         "\"A\" Number": "MD520",
+         "Bootrom": "",
+         "FCC ID": "",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      },
+      {
+         "\"A\" Number": "MD523, ME196",
+         "Bootrom": "",
+         "FCC ID": "",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      },
+      {
+         "\"A\" Number": "MD526, ME199",
+         "Bootrom": "",
+         "FCC ID": "",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      }
+   ],
+   "64 GB": [
+      {
+         "\"A\" Number": "MB294",
+         "Bootrom": "",
+         "FCC ID": "",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      },
+      {
+         "\"A\" Number": "MC497",
+         "Bootrom": "",
+         "FCC ID": "",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      },
+      {
+         "\"A\" Number": "MC916",
+         "Bootrom": "",
+         "FCC ID": "",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      },
+      {
+         "\"A\" Number": "MC981",
+         "Bootrom": "",
+         "FCC ID": "",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      },
+      {
+         "\"A\" Number": "MC775",
+         "Bootrom": "",
+         "FCC ID": "",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      },
+      {
+         "\"A\" Number": "MC984",
+         "Bootrom": "",
+         "FCC ID": "",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      },
+      {
+         "\"A\" Number": "MC764",
+         "Bootrom": "",
+         "FCC ID": "",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      },
+      {
+         "\"A\" Number": "MC987",
+         "Bootrom": "",
+         "FCC ID": "",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      },
+      {
+         "\"A\" Number": "MC707, MD335",
+         "Bootrom": "",
+         "FCC ID": "",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      },
+      {
+         "\"A\" Number": "MD330, MD338",
+         "Bootrom": "",
+         "FCC ID": "",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      },
+      {
+         "\"A\" Number": "MC756",
+         "Bootrom": "",
+         "FCC ID": "",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      },
+      {
+         "\"A\" Number": "MD365",
+         "Bootrom": "",
+         "FCC ID": "",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      },
+      {
+         "\"A\" Number": "MD368, MD406",
+         "Bootrom": "",
+         "FCC ID": "",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      },
+      {
+         "\"A\" Number": "MD371, MD409",
+         "Bootrom": "",
+         "FCC ID": "",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      },
+      {
+         "\"A\" Number": "MD512",
+         "Bootrom": "",
+         "FCC ID": "",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      },
+      {
+         "\"A\" Number": "MD515",
+         "Bootrom": "",
+         "FCC ID": "",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      },
+      {
+         "\"A\" Number": "MD518, MD944",
+         "Bootrom": "",
+         "FCC ID": "",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      },
+      {
+         "\"A\" Number": "MD521",
+         "Bootrom": "",
+         "FCC ID": "",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      },
+      {
+         "\"A\" Number": "MD524, ME197",
+         "Bootrom": "",
+         "FCC ID": "",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      },
+      {
+         "\"A\" Number": "MD527, ME200",
+         "Bootrom": "",
+         "FCC ID": "",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      }
+   ],
+   "A1337": [
+      {
+         "\"A\" Number": "BCG-E2328A",
+         "Bootrom": "16 GB",
+         "FCC ID": "MC349",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      }
+   ],
+   "iPad 2": [
+      {
+         "\"A\" Number": "A1395",
+         "Bootrom": "Bootrom 838.3",
+         "FCC ID": "BCGA1395",
+         "Internal Name": "K93AP",
+         "Identifier": "iPad2,1",
+         "Finish": "Black",
+         "Storage": "16 GB",
+         "Model": "MC769"
+      }
+   ],
+   "White": [
+      {
+         "\"A\" Number": "16 GB",
+         "Bootrom": "MC979, MD002",
+         "FCC ID": "",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      },
+      {
+         "\"A\" Number": "16 GB",
+         "Bootrom": "MC982, MC992",
+         "FCC ID": "",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      },
+      {
+         "\"A\" Number": "16 GB",
+         "Bootrom": "MC985",
+         "FCC ID": "",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      },
+      {
+         "\"A\" Number": "16 GB",
+         "Bootrom": "MC989",
+         "FCC ID": "",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      },
+      {
+         "\"A\" Number": "16 GB",
+         "Bootrom": "MD328, MD336",
+         "FCC ID": "",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      },
+      {
+         "\"A\" Number": "16 GB",
+         "Bootrom": "MD363",
+         "FCC ID": "",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      },
+      {
+         "\"A\" Number": "16 GB",
+         "Bootrom": "MD369, MD407",
+         "FCC ID": "",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      },
+      {
+         "\"A\" Number": "16 GB",
+         "Bootrom": "MD513",
+         "FCC ID": "",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      },
+      {
+         "\"A\" Number": "16 GB",
+         "Bootrom": "MD519, MG942",
+         "FCC ID": "",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      },
+      {
+         "\"A\" Number": "16 GB",
+         "Bootrom": "MD525, ME198",
+         "FCC ID": "",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      }
+   ],
+   "A1396": [
+      {
+         "\"A\" Number": "BCGA1396",
+         "Bootrom": "K94AP",
+         "FCC ID": "iPad2,2",
+         "Internal Name": "Black",
+         "Identifier": "16 GB",
+         "Finish": "MC773, MC957",
+         "Storage": "",
+         "Model": ""
+      }
+   ],
+   "A1397": [
+      {
+         "\"A\" Number": "BCGA1397",
+         "Bootrom": "K95AP",
+         "FCC ID": "iPad2,3",
+         "Internal Name": "Black",
+         "Identifier": "16 GB",
+         "Finish": "MC755",
+         "Storage": "",
+         "Model": ""
+      }
+   ],
+   "A1395": [
+      {
+         "\"A\" Number": "ROM",
+         "Bootrom": "BCGA1395",
+         "FCC ID": "K93AAP",
+         "Internal Name": "iPad2,4",
+         "Identifier": "Black",
+         "Finish": "16 GB",
+         "Storage": "MC954, MC960, MC988",
+         "Model": ""
+      }
+   ],
+   "iPad (3rd generation)": [
+      {
+         "\"A\" Number": "A1416",
+         "Bootrom": "Bootrom 1062.2",
+         "FCC ID": "BCGA1416",
+         "Internal Name": "J1AP",
+         "Identifier": "iPad3,1",
+         "Finish": "Black",
+         "Storage": "16 GB",
+         "Model": "MC705, MD333"
+      }
+   ],
+   "A1403": [
+      {
+         "\"A\" Number": "BCGA1403",
+         "Bootrom": "J2AP",
+         "FCC ID": "iPad3,2",
+         "Internal Name": "Black",
+         "Identifier": "16 GB",
+         "Finish": "MC733",
+         "Storage": "",
+         "Model": ""
+      }
+   ],
+   "A1430": [
+      {
+         "\"A\" Number": "BCGA1430",
+         "Bootrom": "J2AAP",
+         "FCC ID": "iPad3,3",
+         "Internal Name": "Black",
+         "Identifier": "16 GB",
+         "Finish": "MD366, MD404",
+         "Storage": "",
+         "Model": ""
+      }
+   ],
+   "iPad (4th generation)": [
+      {
+         "\"A\" Number": "A1458",
+         "Bootrom": "Bootrom 1145.3.3",
+         "FCC ID": "BCGA1458",
+         "Internal Name": "P101AP",
+         "Identifier": "iPad3,4",
+         "Finish": "Black",
+         "Storage": "16 GB",
+         "Model": "MD510"
+      }
+   ],
+   "128 GB": [
+      {
+         "\"A\" Number": "ME392",
+         "Bootrom": "",
+         "FCC ID": "",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      },
+      {
+         "\"A\" Number": "ME393",
+         "Bootrom": "",
+         "FCC ID": "",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      },
+      {
+         "\"A\" Number": "ME400",
+         "Bootrom": "",
+         "FCC ID": "",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      },
+      {
+         "\"A\" Number": "ME401",
+         "Bootrom": "",
+         "FCC ID": "",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      },
+      {
+         "\"A\" Number": "ME406, ME410",
+         "Bootrom": "",
+         "FCC ID": "",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      },
+      {
+         "\"A\" Number": "ME407, ME411",
+         "Bootrom": "",
+         "FCC ID": "",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      },
+      {
+         "\"A\" Number": "MPGW2",
+         "Bootrom": "",
+         "FCC ID": "",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      },
+      {
+         "\"A\" Number": "MP2J2",
+         "Bootrom": "",
+         "FCC ID": "",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      },
+      {
+         "\"A\" Number": "MP2H2",
+         "Bootrom": "",
+         "FCC ID": "",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      },
+      {
+         "\"A\" Number": "MPG52, MPGC2",
+         "Bootrom": "",
+         "FCC ID": "",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      },
+      {
+         "\"A\" Number": "MP272, MP2E2",
+         "Bootrom": "",
+         "FCC ID": "",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      },
+      {
+         "\"A\" Number": "MP262, MP2D2",
+         "Bootrom": "",
+         "FCC ID": "",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      },
+      {
+         "\"A\" Number": "MRJP2",
+         "Bootrom": "",
+         "FCC ID": "",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      },
+      {
+         "\"A\" Number": "MR7K2",
+         "Bootrom": "",
+         "FCC ID": "",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      },
+      {
+         "\"A\" Number": "MR7J2",
+         "Bootrom": "",
+         "FCC ID": "",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      },
+      {
+         "\"A\" Number": "MRM82",
+         "Bootrom": "",
+         "FCC ID": "",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      },
+      {
+         "\"A\" Number": "MR7D2",
+         "Bootrom": "",
+         "FCC ID": "",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      },
+      {
+         "\"A\" Number": "MR7C2",
+         "Bootrom": "",
+         "FCC ID": "",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      },
+      {
+         "\"A\" Number": "MW792",
+         "Bootrom": "",
+         "FCC ID": "",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      },
+      {
+         "\"A\" Number": "MW782",
+         "Bootrom": "",
+         "FCC ID": "",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      },
+      {
+         "\"A\" Number": "MW772",
+         "Bootrom": "",
+         "FCC ID": "",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      },
+      {
+         "\"A\" Number": "MW6G2, MW6V2, MW722",
+         "Bootrom": "",
+         "FCC ID": "",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      },
+      {
+         "\"A\" Number": "MW6F2, MW6U2, MW712",
+         "Bootrom": "",
+         "FCC ID": "",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      },
+      {
+         "\"A\" Number": "MW6E2, MW6T2, MW702",
+         "Bootrom": "",
+         "FCC ID": "",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      },
+      {
+         "\"A\" Number": "MYLF2",
+         "Bootrom": "",
+         "FCC ID": "",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      },
+      {
+         "\"A\" Number": "MYLE2",
+         "Bootrom": "",
+         "FCC ID": "",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      },
+      {
+         "\"A\" Number": "MYLD2",
+         "Bootrom": "",
+         "FCC ID": "",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      },
+      {
+         "\"A\" Number": "MYMN2, MYN92",
+         "Bootrom": "",
+         "FCC ID": "",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      },
+      {
+         "\"A\" Number": "MYMM2, MYN82",
+         "Bootrom": "",
+         "FCC ID": "",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      },
+      {
+         "\"A\" Number": "MYML2, MYN72",
+         "Bootrom": "",
+         "FCC ID": "",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      }
+   ],
+   "A1459": [
+      {
+         "\"A\" Number": "BCGA1459",
+         "Bootrom": "P102AP",
+         "FCC ID": "iPad3,5",
+         "Internal Name": "Black",
+         "Identifier": "16 GB",
+         "Finish": "MD516, MG932",
+         "Storage": "",
+         "Model": ""
+      }
+   ],
+   "A1460": [
+      {
+         "\"A\" Number": "BCGA1460",
+         "Bootrom": "P103AP",
+         "FCC ID": "iPad3,6",
+         "Internal Name": "Black",
+         "Identifier": "16 GB",
+         "Finish": "MD522, ME195",
+         "Storage": "",
+         "Model": ""
+      }
+   ],
+   "iPad (5th generation)": [
+      {
+         "\"A\" Number": "A1822",
+         "Bootrom": "Bootrom 2234.0.0.3.3",
+         "FCC ID": "BCGA1822",
+         "Internal Name": "J71sAP\nJ71tAP",
+         "Identifier": "iPad6,11",
+         "Finish": "Gold",
+         "Storage": "32 GB",
+         "Model": "MPGT2"
+      }
+   ],
+   "Silver": [
+      {
+         "\"A\" Number": "32 GB",
+         "Bootrom": "MP2G2",
+         "FCC ID": "",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      },
+      {
+         "\"A\" Number": "32 GB",
+         "Bootrom": "MP1L2, MP252",
+         "FCC ID": "",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      },
+      {
+         "\"A\" Number": "32 GB",
+         "Bootrom": "MR7G2",
+         "FCC ID": "",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      },
+      {
+         "\"A\" Number": "32 GB",
+         "Bootrom": "MR702",
+         "FCC ID": "",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      },
+      {
+         "\"A\" Number": "32 GB",
+         "Bootrom": "MW752",
+         "FCC ID": "",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      },
+      {
+         "\"A\" Number": "32 GB",
+         "Bootrom": "MW6C2, MW6Q2, MW6X2",
+         "FCC ID": "",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      },
+      {
+         "\"A\" Number": "32 GB",
+         "Bootrom": "MYLA2",
+         "FCC ID": "",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      },
+      {
+         "\"A\" Number": "32 GB",
+         "Bootrom": "MYMJ2, MYN52",
+         "FCC ID": "",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      }
+   ],
+   "Space Gray": [
+      {
+         "\"A\" Number": "32 GB",
+         "Bootrom": "MP2F2",
+         "FCC ID": "",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      },
+      {
+         "\"A\" Number": "32 GB",
+         "Bootrom": "MP1J2, MP242",
+         "FCC ID": "",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      },
+      {
+         "\"A\" Number": "32 GB",
+         "Bootrom": "MR7F2",
+         "FCC ID": "",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      },
+      {
+         "\"A\" Number": "32 GB",
+         "Bootrom": "MR6Y2",
+         "FCC ID": "",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      },
+      {
+         "\"A\" Number": "32 GB",
+         "Bootrom": "MW742",
+         "FCC ID": "",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      },
+      {
+         "\"A\" Number": "32 GB",
+         "Bootrom": "MW6A2, MW6P2, MW6W2",
+         "FCC ID": "",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      },
+      {
+         "\"A\" Number": "32 GB",
+         "Bootrom": "MYL92",
+         "FCC ID": "",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      },
+      {
+         "\"A\" Number": "32 GB",
+         "Bootrom": "MYMH2, MYN32",
+         "FCC ID": "",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      },
+      {
+         "\"A\" Number": "64 GB",
+         "Bootrom": "MK2K3",
+         "FCC ID": "",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      },
+      {
+         "\"A\" Number": "64 GB",
+         "Bootrom": "MK473, MK663",
+         "FCC ID": "",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      }
+   ],
+   "A1823": [
+      {
+         "\"A\" Number": "BCGA1823",
+         "Bootrom": "J72sAP\nJ72tAP",
+         "FCC ID": "iPad6,12",
+         "Internal Name": "Gold",
+         "Identifier": "32 GB",
+         "Finish": "MPG42, MPGA2",
+         "Storage": "",
+         "Model": ""
+      }
+   ],
+   "iPad (6th generation)": [
+      {
+         "\"A\" Number": "A1893",
+         "Bootrom": "Bootrom 2696.0.0.1.33",
+         "FCC ID": "BCGA1893",
+         "Internal Name": "J71bAP",
+         "Identifier": "iPad7,5",
+         "Finish": "Gold",
+         "Storage": "32 GB",
+         "Model": "MRJN2"
+      }
+   ],
+   "A1954": [
+      {
+         "\"A\" Number": "BCGA1954",
+         "Bootrom": "J72bAP",
+         "FCC ID": "iPad7,6",
+         "Internal Name": "Gold",
+         "Identifier": "32 GB",
+         "Finish": "MRM52",
+         "Storage": "",
+         "Model": ""
+      }
+   ],
+   "iPad (7th generation)": [
+      {
+         "\"A\" Number": "A2197",
+         "Bootrom": "Bootrom 2696.0.0.1.33",
+         "FCC ID": "BCGA2197",
+         "Internal Name": "J171AP",
+         "Identifier": "iPad7,11",
+         "Finish": "Gold",
+         "Storage": "32 GB",
+         "Model": "MW762"
+      }
+   ],
+   "A2198\nA2200": [
+      {
+         "\"A\" Number": "BCGA2198\nBCGA2200",
+         "Bootrom": "J172AP",
+         "FCC ID": "iPad7,12",
+         "Internal Name": "Gold",
+         "Identifier": "32 GB",
+         "Finish": "MW6D2, MW6R2, MW6Y2",
+         "Storage": "",
+         "Model": ""
+      }
+   ],
+   "iPad (8th generation)": [
+      {
+         "\"A\" Number": "A2270",
+         "Bootrom": "?",
+         "FCC ID": "BCGA2270",
+         "Internal Name": "J171aAP",
+         "Identifier": "iPad11,6",
+         "Finish": "Gold",
+         "Storage": "32 GB",
+         "Model": "MYLC2"
+      }
+   ],
+   "A2428\nA2429\nA2430": [
+      {
+         "\"A\" Number": "BCGA2428\nBCGA2429",
+         "Bootrom": "J172aAP",
+         "FCC ID": "iPad11,7",
+         "Internal Name": "Gold",
+         "Identifier": "32 GB",
+         "Finish": "MYMK2, MYN62",
+         "Storage": "",
+         "Model": ""
+      }
+   ],
+   "iPad (9th generation)": [
+      {
+         "\"A\" Number": "A2602",
+         "Bootrom": "?",
+         "FCC ID": "?",
+         "Internal Name": "J181AP",
+         "Identifier": "iPad12,1",
+         "Finish": "Silver",
+         "Storage": "64 GB",
+         "Model": "MK2L3"
+      }
+   ],
+   "256 GB": [
+      {
+         "\"A\" Number": "MK2P3",
+         "Bootrom": "",
+         "FCC ID": "",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      },
+      {
+         "\"A\" Number": "MK2N3",
+         "Bootrom": "",
+         "FCC ID": "",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      },
+      {
+         "\"A\" Number": "MK4H3, MK6A3",
+         "Bootrom": "",
+         "FCC ID": "",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      },
+      {
+         "\"A\" Number": "MK4E3, MK693",
+         "Bootrom": "",
+         "FCC ID": "",
+         "Internal Name": "",
+         "Identifier": "",
+         "Finish": "",
+         "Storage": "",
+         "Model": ""
+      }
+   ],
+   "A2603\nA2604\nA2605": [
+      {
+         "\"A\" Number": "BCGA2603\nBCGA2604\nBCGA2605",
+         "Bootrom": "J182AP",
+         "FCC ID": "iPad12,2",
+         "Internal Name": "Silver",
+         "Identifier": "64 GB",
+         "Finish": "MK493, MK673",
+         "Storage": "",
+         "Model": ""
+      }
+   ]
+}
